@@ -1,0 +1,51 @@
+16:49:39.695 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+16:49:40.441 [main] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+16:51:56.585 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+17:01:59.892 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+17:02:03.688 [main] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+17:02:41.567 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+17:02:47.330 [main] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+17:08:25.238 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+17:08:30.989 [main] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+17:11:56.864 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+17:12:02.709 [main] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+21:10:26.727 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+21:10:26.870 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+21:10:27.636 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+21:10:27.636 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+21:10:29.167 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue..
+21:10:29.228 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+21:10:29.228 [main] INFO  testCases.TC_001_AccountRegistrationTest - Test Passed....
+21:10:29.230 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+21:10:34.037 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+21:10:34.108 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+21:10:34.549 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+21:10:34.551 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+21:10:35.412 [main] INFO  testCases.TC_002_LoginTest - clicked on login button..
+21:10:35.477 [main] INFO  testCases.TC_002_LoginTest - login test passed....
+21:10:35.477 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+21:10:43.716 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+21:10:49.461 [main] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+21:10:54.007 [main] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+21:10:55.706 [main] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 
+21:30:43.808 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+21:30:43.942 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+21:30:44.612 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+21:30:44.613 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+21:30:46.097 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue..
+21:30:46.145 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+21:30:46.145 [main] INFO  testCases.TC_001_AccountRegistrationTest - Test Passed....
+21:30:46.148 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+21:30:54.972 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+21:30:55.042 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+21:30:55.469 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+21:30:55.472 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+21:30:56.339 [main] INFO  testCases.TC_002_LoginTest - clicked on login button..
+21:30:56.400 [main] INFO  testCases.TC_002_LoginTest - login test passed....
+21:30:56.401 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+21:31:04.741 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+21:31:10.549 [main] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+21:31:19.007 [main] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+21:31:20.681 [main] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 
+21:34:20.418 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+21:34:20.529 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link

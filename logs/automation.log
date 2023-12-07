@@ -1,0 +1,32 @@
+21:34:21.166 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+21:34:21.179 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+21:34:22.570 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue..
+21:34:22.625 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+21:34:22.625 [main] INFO  testCases.TC_001_AccountRegistrationTest - Test Passed....
+21:34:22.628 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+21:34:27.436 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+21:34:27.503 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+21:34:27.929 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+21:34:27.931 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+21:34:28.757 [main] INFO  testCases.TC_002_LoginTest - clicked on login button..
+21:34:28.819 [main] INFO  testCases.TC_002_LoginTest - login test passed....
+21:34:28.819 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+21:34:36.848 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+21:34:42.548 [main] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+21:34:47.241 [main] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+21:34:48.825 [main] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 
+21:41:52.418 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+21:41:52.542 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+21:41:53.452 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+21:41:53.453 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+21:41:54.909 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue..
+21:41:54.975 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+21:41:54.975 [main] INFO  testCases.TC_001_AccountRegistrationTest - Test Passed....
+21:41:54.977 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+21:42:03.860 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+21:42:03.932 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+21:42:04.394 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+21:42:04.396 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+21:42:05.219 [main] INFO  testCases.TC_002_LoginTest - clicked on login button..
+21:42:05.277 [main] INFO  testCases.TC_002_LoginTest - login test passed....
+21:42:05.277 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
